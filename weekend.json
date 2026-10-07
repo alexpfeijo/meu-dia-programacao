@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "region": "Zona Sul, Rio de Janeiro",
+  "updatedAt": "2026-10-07T20:05:56Z",
+  "weekendStart": "2026-10-10",
+  "weekendEnd": "2026-10-11",
+  "coverageNote": "Cinco programas confirmados em fontes oficiais para 10 e 11 de outubro de 2026, incluindo feira com gastronomia no Flamengo e duas mostras distintas na Cinemateca do MAM, no trecho da Glória do Parque do Flamengo. Foram pesquisados Aterro do Flamengo, Glória, festivais, feiras, cerveja artesanal e gastronomia. A agenda do Rock 80 foi consultada: a edição de 10 e 11 de outubro ocorre na Tijuca, fora da região; a edição no Aterro está anunciada para 24 e 25 de outubro, fora deste fim de semana. Não foi confirmado festival de cerveja artesanal na Zona Sul para as datas selecionadas. Divulgações sem confirmação oficial acessível foram excluídas. Horários e preços foram incluídos somente quando explícitos nas fontes da edição atual; preços não informados foram omitidos.",
+  "events": [
+    {
+      "id": "o-mercado-iab-flamengo-2026-10-10",
+      "title": "O Mercado — feira de criadores e gastronomia",
+      "dates": [
+        "2026-10-10",
+        "2026-10-11"
+      ],
+      "neighborhood": "Flamengo",
+      "venue": "Instituto de Arquitetos do Brasil — IAB/RJ",
+      "category": "Gastronomia",
+      "sourceUrl": "https://www.estilistasindependentes.com/oevento",
+      "address": "Rua do Pinheiro, 10, Flamengo, Rio de Janeiro",
+      "time": "Sábado e domingo, das 11h às 19h",
+      "price": "Entrada gratuita",
+      "note": "Feira de criadores locais com gastronomia. Classificação livre; aceita animais de estimação."
+    },
+    {
+      "id": "fintch-3-2026-mam",
+      "title": "FINTCH — 3º Festival Internacional de Cinema de Humor",
+      "dates": [
+        "2026-10-10",
+        "2026-10-11"
+      ],
+      "neighborhood": "Glória",
+      "venue": "Cinemateca do MAM — Auditório Cosme Alves Netto",
+      "category": "Cultura",
+      "sourceUrl": "https://mam.rio/cinemateca/agenda/este-mes/",
+      "address": "Avenida Infante Dom Henrique, 85, Parque do Flamengo, Glória, Rio de Janeiro",
+      "time": "Sábado e domingo: sessões às 15h e às 16h10",
+      "note": "Programas de curtas-metragens; classificação indicativa de 14 anos. No trecho da Glória do Parque do Flamengo."
+    },
+    {
+      "id": "uffilme-17-2026-mam",
+      "title": "17ª Mostra UFFilme de Cinema Universitário",
+      "dates": [
+        "2026-10-10",
+        "2026-10-11"
+      ],
+      "neighborhood": "Glória",
+      "venue": "Cinemateca do MAM — Auditório Cosme Alves Netto",
+      "category": "Cultura",
+      "sourceUrl": "https://mam.rio/cinemateca/agenda/este-mes/",
+      "address": "Avenida Infante Dom Henrique, 85, Parque do Flamengo, Glória, Rio de Janeiro",
+      "time": "Sábado, às 17h30; domingo, às 18h",
+      "note": "Sessões seguidas de conversa. Sábado: classificação livre; domingo: 14 anos. No trecho da Glória do Parque do Flamengo."
+    },
+    {
+      "id": "mesmo-rio-sesc-copacabana-temporada-2026",
+      "title": "Mesmo Rio — teatro no Sesc Copacabana",
+      "dates": [
+        "2026-10-10",
+        "2026-10-11"
+      ],
+      "neighborhood": "Copacabana",
+      "venue": "Sesc Copacabana",
+      "category": "Cultura",
+      "sourceUrl": "https://www.ingresso.com/espetaculos/mesmo-rio",
+      "address": "Rua Domingos Ferreira, 160, Copacabana, Rio de Janeiro",
+      "time": "Sábado e domingo, às 18h",
+      "note": "Classificação indicativa de 12 anos. A apresentação de 10 de outubro tem acessibilidade em Libras. Fonte: bilheteria oficial vinculada ao Sesc."
+    },
+    {
+      "id": "festival-do-rio-2026-quem-matou-narciso-botafogo-2026-10-10",
+      "title": "Festival do Rio — Quem Matou Narciso? e debate",
+      "dates": [
+        "2026-10-10"
+      ],
+      "neighborhood": "Botafogo",
+      "venue": "Cinesystem Belas Artes Botafogo — sala 6",
+      "category": "Cultura",
+      "sourceUrl": "https://www.imovision.com.br/novidades/festival-do-rio-2026",
+      "time": "Sábado, às 18h30",
+      "note": "Sessão com presença de Marcelo Martinessi e Diro Romero, seguida de debate. Programação confirmada pela distribuidora oficial."
+    }
+  ]
+}
